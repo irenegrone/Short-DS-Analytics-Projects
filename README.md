@@ -6,7 +6,3 @@ This repository showcases several analytics projects that use different techniqu
 - Project 1
 - Project 2
 - Project 3
-
-### Data
-
-### References and Bibliography

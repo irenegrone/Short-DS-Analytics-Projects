@@ -3,9 +3,9 @@ This repository showcases several analytics projects that use different techniqu
 
 ### Projects list
 
-- a
-- bb
-- cc
+- Project 1
+- Project 2
+- Project 3
 
 ### Data
 

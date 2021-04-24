@@ -1,10 +1,12 @@
+## Repository under development
+
 # Analytics-projects
 This repository showcases several analytics projects that use different techniques and programming languages.
 
-## Projects list
+## Projects
 
-- Project 1
-- Project 2
-- Project 3
+#### Project 1
 
-## Repository under development
+#### Project 2
+
+#### Project 3

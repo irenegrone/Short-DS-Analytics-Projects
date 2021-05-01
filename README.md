@@ -6,10 +6,14 @@ This repository showcases several analytics projects that use different techniqu
 ## Projects
 
 #### Project 1
-Python - jupyter - voila
+Python - jupyter - EDA: outlier detection, significance testing - data preparation - feature engineering - modelling: definition, training - CV and tuning parameters - 
+    feature selection - model 2 - assessing performance
 
 #### Project 2
-R - analysis - flexdashboard
+R - EDA analysis - flexdashboard
 
 #### Project 3
 R - analysis - shiny app
+
+#### Project 4
+Python - jupyter (voila for standalone web application) - EDA:

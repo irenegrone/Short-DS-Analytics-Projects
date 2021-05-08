@@ -13,7 +13,7 @@ Python - jupyter - EDA: outlier detection, significance testing - data preparati
 R - EDA analysis - flexdashboard
 
 #### Project 3
-R - analysis - shiny app
+R - shiny app - EDA
 
 #### Project 4
-Python - jupyter (voila for standalone web application) - EDA:
+Python - streamlit app - EDA

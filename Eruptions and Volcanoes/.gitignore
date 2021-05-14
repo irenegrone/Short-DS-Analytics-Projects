@@ -1,7 +1,0 @@
-# checkpoint
-*.ipynb_checkpoints
-*.log
-
-# files
-*.html
-*.txt

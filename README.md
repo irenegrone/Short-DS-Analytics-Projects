@@ -9,11 +9,9 @@ This repository showcases several analytics projects that use different techniqu
 Python - jupyter - EDA: outlier detection, significance testing - data preparation - feature engineering - modelling: definition, training - CV and tuning parameters -
     feature selection - model 2 - assessing performance
 
-#### Project 2
-R - EDA analysis - flexdashboard
-
-#### Project 3
-R - shiny app - EDA
+#### Volcanoes and Eruptions
+R - EDA analysis - flexdashboard - shiny app
+Volcanoes and Eruptions
 
 #### Streamlit App
 Python - streamlit app - EDA

@@ -11,7 +11,6 @@ Python - jupyter - EDA: outlier detection, significance testing - data preparati
 
 #### Volcanoes and Eruptions
 R - EDA analysis - flexdashboard - shiny app
-Volcanoes and Eruptions
 
 #### Streamlit App
 Python - streamlit app - EDA

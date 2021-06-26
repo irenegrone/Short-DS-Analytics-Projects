@@ -1,27 +1,18 @@
 # git folder
 .git/
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+cache/*
+figure/*
 
 # Scrapy
 .scrapy
 
-# PyBuilder
-target/
+# Checkpoint
+*.ipynb_checkpoints
+*.log
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
+# Files
+*.html
+*.txt
 
 # pyenv
 .python-version

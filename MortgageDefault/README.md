@@ -12,7 +12,7 @@ Steps included in the process:
 * 3 - Develop model 1 for prediction: specifying model type and the reasons for its choice
 * 4 - Parameter tuning and GridSearchCV, metrics choice and reasons, show performance in folds
 * 5 - Feature importance and selection
-* 6 - Model 2 using
+* 6 - Develop model 2 using only the 5 most important variables 
 * 8 - Models comparison
 * 9 - Conclusion
 
@@ -23,7 +23,7 @@ Dataset: Data Set Mortgage
   Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS.
   John Wiley & Sons.
 
-open source data available at http://www.creditriskanalytics.net/datasets-private2.html
-and downloaded on 6 December 2021
+Data available at http://www.creditriskanalytics.net/datasets-private2.html
+downloaded on 6 December 2021.
 
-See details on dataset and variable description at the link above
+See details on dataset and variables description at the link above.

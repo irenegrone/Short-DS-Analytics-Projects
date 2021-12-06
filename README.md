@@ -1,11 +1,13 @@
 ## Repository under development
 
 # Analytics-projects
-This repository showcases several analytics projects that use different techniques and programming languages.
+This repository showcases several analytics projects that use different techniques applied on open source data.
 
-## Projects
+#### Mortgage default
 
-#### Project 1
+
+
+
 Python - jupyter - EDA: outlier detection, significance testing - data preparation - feature engineering - modelling: definition, training - CV and tuning parameters -
     feature selection - model 2 - assessing performance
 

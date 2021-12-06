@@ -1,10 +1,9 @@
 # git folder
 .git/
-cache/*
-figure/*
 
-# Scrapy
-.scrapy
+# folders
+data/
+
 
 # Checkpoint
 *.ipynb_checkpoints
@@ -14,15 +13,3 @@ figure/*
 *.html
 *.txt
 
-# pyenv
-.python-version
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-opeproject

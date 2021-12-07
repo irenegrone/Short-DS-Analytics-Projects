@@ -5,7 +5,8 @@ This repository showcases several analytics projects that use different techniqu
 
 
 #### Mortgage default
-Python project. The aim is to show a possible approach in solving a problem given an objective and open data.
+Python - Tabular data - Random Forest
+The aim is to show a possible approach in solving a problem given an objective and open data.
 Objective: to develop a model to predict if a mortgage from the dataset will default in its remaining lifetime given the information at the time of the mortgage first observation.
 
 

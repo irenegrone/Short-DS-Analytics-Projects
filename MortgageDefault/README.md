@@ -1,7 +1,7 @@
 # Mortgage default
 -----------------
 ### Objectives
-The aim of this project is to develop a model to predict if a mortgage from the dataset will default in its remaining lifetime given what the information known about the mortgage at the time of its first observation.
+The aim of this project is to develop a model to predict if a mortgage from the dataset will default in its remaining lifetime given the information at the time of the mortgage first observation.
 
 
 ### Description

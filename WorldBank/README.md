@@ -1,5 +1,12 @@
 ## In development
 -----------------
+# Title
+
+### Objectives
+
+
+
+### Description
 Steps
 * 1 - EDA: quality of data, outliers detection, data cleaning
 * 2 - correlated features, significance testing to assess difference between groups
@@ -11,12 +18,15 @@ Steps
 * 8 - model comparison
 * 9 - conclusion
 
-# Title
 
-### Description
 
-### Objectives
 
 ### Data
 
+
+
+
 ### Resources and Bibliography
+-
+
+-

@@ -1,6 +1,6 @@
 ## Repository under development
 
-# Analytics-projects
+# DS-Analytics-Projects
 This repository showcases several analytics projects that use different techniques applied on open source data. Refer to each specific project README.md for details on data sources and methods.
 
 

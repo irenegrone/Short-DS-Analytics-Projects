@@ -1,7 +1,7 @@
 ## Repository under development
 
 # DS-Analytics-Projects
-This repository showcases several analytics projects that use different techniques applied on open source data. Refer to each specific project README.md for details on data sources and methods.
+This repository showcases different data science and analytics projects that use different techniques applied on open source data. Refer to each specific project README.md for details on data sources and methods.
 
 
 #### Mortgage default
@@ -16,4 +16,4 @@ The project purpose is to demonstrate how to collect publicly available data fro
 
 
 #### Streamlit App - in development
-Python - streamlit app - EDA
+Python - Streamlit app - EDA

@@ -1,16 +1,17 @@
 # git folder
 .git/
 
+
 # folders
 data/
-StreamlitApp/
 
 
 # Checkpoint
 *.ipynb_checkpoints
 *.log
 
+
 # Files
 *.html
 *.txt
-
+config_psql.py

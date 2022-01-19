@@ -9,11 +9,11 @@
 
 ### Description
 Steps
-* 1 - data collection API, data cleaning
-* 2 - EDA: quality of data, outliers detection
+* 1 - Data collection API and
+* 2 - Data quality and data preprocessing
 * 3 - postgreSQL database
-* 4 - Feature engineering  ??
-* 5 - cmd UI queries
+* 4 - Feature engineering
+* 5 - UI and dashboard
 
 
 
